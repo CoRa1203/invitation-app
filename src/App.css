@@ -144,7 +144,7 @@ line-height: 0.8rem;
 }
 
 .block1:hover {
-  transform: scale(0.7);
+  transform: scale(0.9);
   transition: 0.5s;
 }
 .hoverPhoto2 {
@@ -167,7 +167,7 @@ line-height: 0.8rem;
   opacity: 1;
 }
 .block2:hover {
-  transform: scale(0.7);
+  transform: scale(0.9);
   transition: 0.5s;
 }
 .block3 {
@@ -191,7 +191,7 @@ line-height: 0.8rem;
   opacity: 1;
 }
 .block3:hover {
-  transform: scale(0.7);
+  transform: scale(0.9);
   transition: 0.5s;
 }
 .block4 {
@@ -215,7 +215,7 @@ line-height: 0.8rem;
   opacity: 1;
 }
 .block4:hover {
-  transform: scale(0.7);
+  transform: scale(0.9);
   transition: 0.5s;
 }
 .block5 {
@@ -238,7 +238,7 @@ line-height: 0.8rem;
   opacity: 1;
 }
 .block5:hover {
-  transform: scale(0.7);
+  transform: scale(0.9);
   transition: 0.5s;
 }
 .block6 {
@@ -261,7 +261,7 @@ line-height: 0.8rem;
   opacity: 1;
 }
 .block6:hover {
-  transform: scale(0.7);
+  transform: scale(0.9);
   transition: 0.5s;
 }
 .lowerInfo {
